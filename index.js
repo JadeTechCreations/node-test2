@@ -1,1 +1,4 @@
-console.log('hello react2');
+const {helloLog} = require('./src/log');
+const {helloLog2} = require('./src/log');
+
+// console.log(helloLog());
